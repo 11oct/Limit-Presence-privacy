@@ -8,7 +8,7 @@ This document entails the privacy policy and agreement that you accept when addi
 
 ### Bots, Services, and Servers
 The following is a list of bots to which this privacy policy applies.
-* **Présence**#1234 (Your Bot ID here)
+* **Limit | Presence**#3895 (1245200073877356605)
 
 ### Terminology
 * **Server Manager** - Anyone who has the ability to add a bot to a server or configure the bot for the server. This is usually an administrator or moderator.
