@@ -42,7 +42,6 @@ This data may be collected automatically by some bots. This data is used to prov
 This data may be collected when authorizing an application, such as when logging in to a site via Discord OAuth2. This data is also outlined on the authorization page.
 * Username, Discord ID, Avatar Data.
 * List of guilds (servers) your account is connected to.
-* E-mail address.
 * Discord account connections (such as Steam, Reddit, etc).
 * Connection status and data via FiveM API (for players who have linked their Discord accounts).
 
